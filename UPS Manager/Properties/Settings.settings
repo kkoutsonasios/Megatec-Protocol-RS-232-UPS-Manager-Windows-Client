@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UPS_Manager.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UPSPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM5</Value>
+    </Setting>
+    <Setting Name="DataTimerInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="AutoStart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BatteryMax" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="BatteryMin" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">9.7</Value>
+    </Setting>
+    <Setting Name="Duration" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">00:00:00</Value>
+    </Setting>
+    <Setting Name="AutoMaxMin" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MuteBeeper" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BatteryChargeMax" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">13.6</Value>
+    </Setting>
+    <Setting Name="BatteryChargeMin" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">12.6</Value>
+    </Setting>
+    <Setting Name="RS232DeviveName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">USB-SERIAL CH340 (COM6)</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
